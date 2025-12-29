@@ -1,25 +1,13 @@
-# Madaghaxx - Backend Systems Engineering & DevSecOps
-
-**Senior Backend Systems Engineer | Cloud Infrastructure | Security-First Architecture**
-
-Welcome to my professional repository showcasing expertise in designing, building, and securing scalable backend systems and cloud infrastructure.
+# Madaghaxx - **Full Stack Developer**
 
 ---
 
 ## 🎯 Core Expertise
 
 ### Backend Systems Engineering
-- **Distributed Systems**: Microservices architecture, service mesh (Istio, Linkerd), RPC protocols
-- **API Design**: RESTful APIs, gRPC, GraphQL with security-first principles
+- **API Design**: RESTful APIs,GraphQL with security-first principles
 - **Database Engineering**: SQL/NoSQL optimization, replication strategies, data consistency patterns
 - **Performance**: High-throughput systems, caching strategies, query optimization, load testing
-
-### DevSecOps & Cloud Infrastructure
-- **Container Orchestration**: Kubernetes (EKS, GKE, AKS), Helm, pod security policies
-- **Infrastructure as Code**: Terraform, CloudFormation, Ansible
-- **CI/CD Pipelines**: GitLab CI, GitHub Actions, secure artifact management
-- **Security Practices**: SIEM integration, secrets management, vulnerability scanning, compliance automation
-- **Cloud Platforms**: AWS, GCP, Azure with multi-cloud strategies
 
 ### Security & Compliance
 - **Application Security**: OWASP compliance, input validation, secure coding practices
@@ -33,15 +21,10 @@ Welcome to my professional repository showcasing expertise in designing, buildin
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Go, Python, Java, TypeScript, Bash |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch |
+| **Languages** | Go, Python, Java, TypeScript, Bash, JavaScript, Rust |
+| **Databases** | PostgreSQL, MySQL, Redis, Sqlite3 |
 | **Container/Orchestration** | Docker, Kubernetes, Docker Compose, Helm |
-| **Cloud Platforms** | AWS (EC2, RDS, S3, Lambda, VPC), GCP, Azure |
-| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack, CloudWatch, Datadog |
-| **Security Tools** | Vault, Falco, Trivy, Snyk, HashiCorp Sentinel |
 | **Version Control** | Git, GitHub, GitLab |
-| **IaC & Configuration** | Terraform, CloudFormation, Ansible, Pulumi |
-
 ---
 
 ## 🚀 Project Focus Areas
@@ -57,7 +40,7 @@ Welcome to my professional repository showcasing expertise in designing, buildin
 
 ## 📊 Architecture & Design Patterns
 
-- Event-driven architecture with message queues (Kafka, RabbitMQ, SQS)
+- Event-driven architecture with message queues
 - CQRS and event sourcing patterns
 - Circuit breaker and resilience patterns
 - Secrets rotation and certificate management
@@ -84,13 +67,6 @@ Staying current with evolving cloud-native technologies, security standards, and
 - Security certifications and compliance frameworks
 - Industry conferences and technical communities
 - Hands-on experimentation and proof-of-concepts
-
----
-
-## 🔗 Let's Connect
-
-- **GitHub**: [/madaghaxx](https://github.com/madaghaxx)
-- **Focus**: Backend systems, cloud infrastructure, DevSecOps, and security automation
 
 ---
 
