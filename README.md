@@ -4,7 +4,7 @@
 
 ## 🎯 Core Expertise
 
-### Backend Systems Engineering
+### Backend Systems
 - **API Design**: RESTful APIs,GraphQL with security-first principles
 - **Database Engineering**: SQL/NoSQL optimization, replication strategies, data consistency patterns
 - **Performance**: High-throughput systems, caching strategies, query optimization, load testing
@@ -12,7 +12,6 @@
 ### Security & Compliance
 - **Application Security**: OWASP compliance, input validation, secure coding practices
 - **Infrastructure Security**: Network segmentation, WAF deployment, DDoS mitigation
-- **DevSecOps Automation**: Policy-as-code (OPA), shift-left security, security scanning in pipelines
 - **Incident Response**: Log aggregation, alerting, forensics, disaster recovery
 
 ---
@@ -23,7 +22,7 @@
 |----------|---------------|
 | **Languages** | Go, Python, Java, TypeScript, Bash, JavaScript, Rust |
 | **Databases** | PostgreSQL, MySQL, Redis, Sqlite3 |
-| **Container/Orchestration** | Docker, Kubernetes, Docker Compose, Helm |
+| **Container/Orchestration** | Docker, Kubernetes, Docker Compose |
 | **Version Control** | Git, GitHub, GitLab |
 ---
 
