@@ -1,6 +1,6 @@
 # Madaghaxx
 
-**Full-Stack Engineer building production-grade systems — from backend internals to containerized delivery.**
+**Full-Stack developer building production-grade systems — from backend internals to containerized delivery.**
 
 ## About Me
 
